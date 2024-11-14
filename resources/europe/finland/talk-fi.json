@@ -4,7 +4,7 @@
   "account": "talk-fi",
   "locationSet": {"include": ["fi"]},
   "languageCodes": ["fi"],
-  "order": -3,
+  "order": -6,
   "strings": {
     "community": "OpenStreetMap Finland",
     "communityID": "openstreetmapfinland"
